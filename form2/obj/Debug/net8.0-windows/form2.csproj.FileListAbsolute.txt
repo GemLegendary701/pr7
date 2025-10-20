@@ -1,0 +1,16 @@
+C:\Users\st325l-08\Desktop\Борисов-ПР24\up7\form2\bin\Debug\net8.0-windows\form2.exe
+C:\Users\st325l-08\Desktop\Борисов-ПР24\up7\form2\bin\Debug\net8.0-windows\form2.deps.json
+C:\Users\st325l-08\Desktop\Борисов-ПР24\up7\form2\bin\Debug\net8.0-windows\form2.runtimeconfig.json
+C:\Users\st325l-08\Desktop\Борисов-ПР24\up7\form2\bin\Debug\net8.0-windows\form2.dll
+C:\Users\st325l-08\Desktop\Борисов-ПР24\up7\form2\bin\Debug\net8.0-windows\form2.pdb
+C:\Users\st325l-08\Desktop\Борисов-ПР24\up7\form2\obj\Debug\net8.0-windows\form2.Form1.resources
+C:\Users\st325l-08\Desktop\Борисов-ПР24\up7\form2\obj\Debug\net8.0-windows\form2.csproj.GenerateResource.cache
+C:\Users\st325l-08\Desktop\Борисов-ПР24\up7\form2\obj\Debug\net8.0-windows\form2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st325l-08\Desktop\Борисов-ПР24\up7\form2\obj\Debug\net8.0-windows\form2.AssemblyInfoInputs.cache
+C:\Users\st325l-08\Desktop\Борисов-ПР24\up7\form2\obj\Debug\net8.0-windows\form2.AssemblyInfo.cs
+C:\Users\st325l-08\Desktop\Борисов-ПР24\up7\form2\obj\Debug\net8.0-windows\form2.csproj.CoreCompileInputs.cache
+C:\Users\st325l-08\Desktop\Борисов-ПР24\up7\form2\obj\Debug\net8.0-windows\form2.dll
+C:\Users\st325l-08\Desktop\Борисов-ПР24\up7\form2\obj\Debug\net8.0-windows\refint\form2.dll
+C:\Users\st325l-08\Desktop\Борисов-ПР24\up7\form2\obj\Debug\net8.0-windows\form2.pdb
+C:\Users\st325l-08\Desktop\Борисов-ПР24\up7\form2\obj\Debug\net8.0-windows\form2.genruntimeconfig.cache
+C:\Users\st325l-08\Desktop\Борисов-ПР24\up7\form2\obj\Debug\net8.0-windows\ref\form2.dll
